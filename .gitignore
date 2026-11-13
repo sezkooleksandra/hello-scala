@@ -10,4 +10,10 @@ project/project/
 *.iml
 *.iws
 .DS_Store
+.vscode/target/
+.metals/
+.bloop/
+.bsp/
 .vscode/
+project/project/
+project/target/
